@@ -1,5 +1,7 @@
 body{
     background-color: beige;
+    font-weight: bold;
+    font-style: italic;
 }
 table{
     width: 200px;
@@ -11,4 +13,11 @@ td{
     border: 1px solid Black;
     padding: 2px;
     text-align: center;
+}
+.ig{
+    background-color: green;
+}
+.grh{
+    background-color: cadetblue;
+    color: yellow;
 }
